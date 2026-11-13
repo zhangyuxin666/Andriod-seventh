@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">张雨鑫2024110548</string>
+    <string name="screen_title">张雨鑫2024110548</string>
+    <string name="screen_subtitle">基于 Service 的音乐播放器</string>
+    <string name="screen_tag">实验七 · ContentResolver / MediaPlayer / Notification</string>
+    <string name="now_playing">正在播放</string>
+    <string name="playlist">播放列表</string>
+</resources>
